@@ -1,6 +1,6 @@
 cask "soniclet" do
-  version "0.7.7"
-  sha256 "cb0c2e10b7408bd353a271e7be69be8321e21cbd78550dbdb766132c6cad3635"
+  version "0.7.8"
+  sha256 "85818d2d666d93494ac082d36b5b03f0905991e3a229ac4db1c8accf5477f019"
 
   url "https://github.com/pal4de/soniclet/releases/download/v#{version}/Soniclet-universal.zip"
   name "Soniclet"
