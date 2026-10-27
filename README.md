@@ -4,7 +4,7 @@ Independent Homebrew **Cask** definitions for GUI applications. A Tap is the rep
 
 ## Release preparation — not installable yet
 
-The initial Soniclet cask is under draft review. Its download URL will become valid only after the matching GitHub Release is published. The current checksum matches the locally Developer ID signed/notarized 0.7.8 (22) ZIP, SHA-256 `85818d2d666d93494ac082d36b5b03f0905991e3a229ac4db1c8accf5477f019`. Apple accepted submission `f4984dae-751b-4e6e-a2d2-a43f0eb20e2e`; stapling, extracted-archive signature and Gatekeeper verification passed. The exact same ZIP must be published at the cask URL before merging; regenerate the checksum if the archive changes. No release has been published by creating this repository.
+The initial Soniclet cask is under draft review. Its download URL will become valid only after the matching GitHub Release is published. The current checksum matches the locally Developer ID signed/notarized 0.7.9 (23) ZIP, SHA-256 `a1b0400a9b17887fd5044cff243e85352a8668d3f45360afb1ebd8170689da3e`. Apple accepted submission `2dc2383c-5282-4d51-a911-de5c1d7ba1b1`; stapling, extracted-archive signature and Gatekeeper verification passed. The exact same ZIP must be published at the cask URL before merging; regenerate the checksum if the archive changes. No release has been published by creating this repository.
 
 After that release and the cask are public on `main`:
 
